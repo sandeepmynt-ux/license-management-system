@@ -1,0 +1,27 @@
+# Maven / Java
+target/
+*.jar
+*.war
+*.class
+.idea/
+*.iml
+.vscode/
+
+# Node / Frontend (if you add a frontend later)
+node_modules/
+dist/
+build/
+.next/
+.nuxt/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env
+.env.local
+*.env
+
+# Logs
+*.log
